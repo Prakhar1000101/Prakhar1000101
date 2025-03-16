@@ -13,9 +13,9 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
  
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra334&theme=radical)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra334&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushagra334&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakhar1000101&theme=radical)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakhar1000101&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakhar1000101&theme=moonlight)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prakhar1000101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
